@@ -1,4 +1,4 @@
-# ea [![Build Status][travis-image]][travis-url]
+# each-reverse [![Build Status][travis-image]][travis-url]
 
   > Arrays, objects and strings reverse iterator
 

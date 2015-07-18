@@ -1,0 +1,22 @@
+{
+  "name": "each-reverse",
+  "description": "Arrays, objects and strings reverse iterator",
+  "version": "0.0.0",
+  "keywords": [
+    "each",
+    "iterate",
+    "reverse",
+    "array",
+    "object",
+    "string"
+  ],
+  "repository": "andrepolischuk/each-reverse",
+  "dependencies": {
+    "component/type": "^1.1.0"
+  },
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ],
+  "license": "MIT"
+}

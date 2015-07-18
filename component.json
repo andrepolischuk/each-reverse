@@ -1,7 +1,7 @@
 {
   "name": "each-reverse",
   "description": "Arrays, objects and strings reverse iterator",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "keywords": [
     "each",
     "iterate",
